@@ -1,4 +1,6 @@
 #Charilaos Chatzidimitriou
+#Student at University of Ioannina
+#Departement of Computer Science & Engineering
 
 #the board described by lists
 
