@@ -1,4 +1,4 @@
-#Charilaos Chatzidimitriou, A.M. 5387
+#Charilaos Chatzidimitriou
 
 #the board described by lists
 
